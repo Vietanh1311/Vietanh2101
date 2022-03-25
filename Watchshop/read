@@ -1,0 +1,5 @@
+<div class="product__items-button">
+                <button class="product__items-button-plus"><i class="fas fa-plus"></i></button>
+                <input class="product__items-button-input" type="number" value="2"/>
+                <button class="product__items-button-minus"><i class="fas fa-minus"></i></button>
+              </div>

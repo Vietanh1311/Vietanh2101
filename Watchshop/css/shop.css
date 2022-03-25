@@ -3,7 +3,7 @@
     max-width: 1440px;
     height: 160px;
     margin: auto;
-    background-image: url(../img/banner-3.jpg);
+    background-image: url(../img/banner-2.jpg);
     background-size: cover;
     background-position: center center;
 }
@@ -315,7 +315,7 @@
     font-size: 1.4rem;
     line-height: 1.9rem;
     color: var(--gray-color);
-    padding: 10px 0 3px;
+    padding: 0px;
 }
 
 .watch__product-info-name {
@@ -327,7 +327,7 @@
     font-size: 1.6rem;
     line-height: 2.2rem;
     font-weight: 600;
-    padding: 20px 0 22px;
+    padding: 0px;
 }
 
 .watch__product-info-style,
